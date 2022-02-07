@@ -1,5 +1,7 @@
 # Ervin_portfolio
 Portofoliul meu
+# about me : 
+I'm a third year student in Electronics and Telecommunications Engineering at Polytehnic University Bucharest. I am passionate about embedded systems, hardware design and c++ programming. 
 # [Project 1 : Oscilator de semnal triunghiular](https://github.com/ErvinDuagi/Triangle_Wave_Generator)
 
 This is a triangle wave generator made only with discrete components;
