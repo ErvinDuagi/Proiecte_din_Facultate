@@ -1,4 +1,4 @@
-# Ervin_portfolio
+# Proiecte din facutate (pana in anul 3)
 Portofoliul meu
 # about me : 
 I'm a third year student in Electronics and Telecommunications Engineering at Polytehnic University Bucharest. I am passionate about embedded systems, hardware design and c++ programming. 
